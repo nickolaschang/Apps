@@ -7,7 +7,7 @@ on how i could improve my code, just do it! I'm always happy to become a better 
 of doing mistakes, everyone starts from 0.
 
 # Files
-Encourage other developers to contribute to your project with details on the process for submitting pull requests, reporting bugs, or requesting features.
+This is to encourage other developers to contribute to the project with details on the process for submitting pull requests, reporting bugs, or requesting features.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
